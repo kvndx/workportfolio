@@ -1,0 +1,193 @@
+body {
+    background-color: #59C9A5;
+    color: #234D9B;
+}
+
+h1 {
+    font-family: 'neue-haas-grotesk-text';
+    font-weight: 500;
+    font-size: 4rem;
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+
+h2 {
+    font-family: 'neue-haas-grotesk-text';
+    font-weight: 500;
+    font-size: 2rem;
+    margin-top: 16px;
+    margin-bottom: 8px;
+}
+
+h3 {
+    font-family: 'neue-haas-grotesk-text';
+    font-size: 1.5rem;
+}
+
+p, a, h4, h5, h6, button, footer {
+    font-family: 'neue-haas-grotesk-text';
+}
+
+p, ul, ol {
+    font-size: 1.25rem;
+    margin: 0 0 0 0;
+}
+
+footer {
+    font-size: 1.25rem;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+.caption {
+    font-family: 'neue-haas-grotesk-text';
+    font-size: 1rem;
+}
+
+.container-fluid {
+    max-width: 90%;
+}
+
+.mt-add {
+    margin-top: 16px;
+}
+
+.mb-add {
+    margin-bottom: 16px;
+}
+
+.mg-zero {
+    margin: 0 0 0 0;
+}
+
+.mt-zero {
+    margin-top: 0;
+}
+
+nav, .navbar, .navbar-dark, .navbar-expand-lg, .bg-dark {
+    background-color: #D6568B;
+}
+
+.nav-link, .navbar-brand, .navbar-brand:visited {
+    color: #F8C630;
+    font-size: 1.25rem;
+}
+
+.nav-link:hover, .navbar-brand:hover {
+    color: #F7A72F;
+}
+
+.navbar-toggler {
+    color: #F7A72F;
+    border-style: solid;
+    border-color: #F7A72F;
+}
+
+hr {
+    border-top: 2px solid #234D9B;
+    opacity: 100%;
+    margin: 0 0 0 0;
+}
+
+button, .btn, .btn-light, ul, ol {
+    font-family: 'neue-haas-grotesk-text';
+}
+
+section {
+    margin: 0 0 0 0;
+}
+
+img {
+    object-fit: contain;
+    max-width: 100%;
+    margin-top: 24px;
+}
+
+iframe {
+    object-fit: contain;
+    max-width: 100%;
+}
+
+.btn-link, .btn-link:hover, .btn-link:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.contact-link {
+    color: #234D9B;
+    text-decoration: none;
+    margin-bottom: 8px;
+}
+
+.contact-link:hover {
+    color: #2A5BB7;
+}
+
+.list-group, .list-group-item {
+    background-color:#59C9A5;
+    border-color:#234D9B;
+    border-width: 2px;
+    color:#234D9B;
+    font-family: 'neue-haas-grotesk-text';
+    font-size: 1.25rem;
+}
+
+.list-group {
+    border-radius: 20px;
+}
+
+.badge, .badge-pill {
+    color: #234D9B;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: #234D9B;
+    font-weight: 200;
+    font-size: 1.25rem;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+.badge {
+    margin-bottom: 8px;
+    margin-right: 4px;
+}
+
+.badge-pill {
+    padding: 4px 8px 4px 8px;
+}
+
+.process {
+    font-family: 'neue-haas-grotesk-text';
+    font-weight: 300;
+    font-size: 2rem;
+    margin-top: 16px;
+    margin-bottom: 8px;
+    padding: 0 0 0 0;
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    text-transform: none;
+    font-size: 1.5rem;
+  
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+  
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+  
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+}
+
+@media (max-width: 767.98px) {
+    .mt-zero {
+        margin-top: 16px;
+    }
+}
