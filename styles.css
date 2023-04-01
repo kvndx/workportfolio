@@ -18,14 +18,14 @@ h1 {
 h2 {
     font-family: 'neue-haas-grotesk-text';
     font-weight: 500;
-    font-size: 1.5rem;
+    font-size: 2rem;
     margin-top: 16px;
     margin-bottom: 8px;
 }
 
 h3 {
     font-family: 'neue-haas-grotesk-text';
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     margin-top: 4px;
 }
 
@@ -34,7 +34,7 @@ p, a, h4, h5, h6, button, footer {
 }
 
 p, ul, ol {
-    font-size: 1rem;
+    font-size: 1.5rem;
     margin: 0 0 0 0;
 }
 
@@ -44,7 +44,7 @@ p, ul, ol {
 }
 
 footer {
-    font-size: 1rem;
+    font-size: 1.5rem;
     margin-top: 64px;
     margin-bottom: 64px;
     text-align: center;
@@ -52,7 +52,7 @@ footer {
 
 .caption {
     font-family: 'neue-haas-grotesk-text';
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 .container-fluid {
@@ -82,7 +82,7 @@ nav, .navbar, .navbar-dark, .navbar-expand-lg, .bg-dark {
 
 .nav-link, .navbar-brand, .navbar-brand:visited {
     color: #ffffff;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 .nav-link:hover, .navbar-brand:hover {
@@ -141,7 +141,7 @@ iframe {
     border-width: 2px;
     color:#eeeeee;
     font-family: 'neue-haas-grotesk-text';
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 .list-group {
@@ -183,7 +183,7 @@ iframe {
     border-radius: 20px;
     border-color: #eeeeee;
     font-weight: 200;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
 }
@@ -246,7 +246,7 @@ iframe {
     font-weight: normal;
     font-style: normal;
     text-transform: none;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
   
     /* Support for all WebKit browsers. */
     -webkit-font-smoothing: antialiased;
